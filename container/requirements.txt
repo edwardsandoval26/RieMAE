@@ -1,0 +1,17 @@
+numpy
+matplotlib
+pandas
+pyriemann
+scikit-learn
+ipykernel
+torch
+torchsummary
+torchmetrics
+notebook
+wandb
+umap-learn
+scikit-image
+xgboost
+seaborn
+timm
+c45-decision-tree
